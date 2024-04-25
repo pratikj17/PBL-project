@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "898746990545",
+    "project_id": "letsjam-c4ee3",
+    "storage_bucket": "letsjam-c4ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898746990545:android:82fc2a2606c9afcd3eeaf0",
+        "android_client_info": {
+          "package_name": "com.example.pbl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898746990545-85ugnf7itbbmj72p02nt7bg6athf6ndv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pbl",
+            "certificate_hash": "f96ce24b336893a5e09785fbf0cadef4f0c3bafb"
+          }
+        },
+        {
+          "client_id": "898746990545-l2oc5u73f69qb1vurcseqvs5f4r2pa0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_flnPUA2GZoAPbhUPGpPnVXoYsEY_yIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898746990545-l2oc5u73f69qb1vurcseqvs5f4r2pa0i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898746990545-c4en4f0oaomm4c451s87n49ksm4bkj2o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pbl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
